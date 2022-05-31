@@ -24,7 +24,7 @@ Paging responsive for dataTables (use on admin page or custom page).
 
 DataTables paging responsive uses a number of open source projects to work properly:
 
-- [jQuery] - Javascript library!
+- [jQuery] - Javascript library tool!
 - [select2] - Javascript for select
 - [dataTables] - Javascript for tables.
 - [Bootstrap] - UI boilerplate for modern web apps
@@ -33,7 +33,7 @@ DataTables paging responsive uses a number of open source projects to work prope
 ## Installation
 
 Require [PHP], [Composer] for backend
-
+  
 Go to working directory and run commands.
 
 ```sh
