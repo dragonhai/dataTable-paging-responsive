@@ -32,7 +32,7 @@ DataTables paging responsive uses a number of open source projects to work prope
 
 ## Installation
 
-Require php, composer for backend
+Require [PHP], [Composer] for backend
 Go to working directory and run commands.
 
 ```sh
@@ -57,7 +57,9 @@ karma test
 Copyright © 2022 Tiger
 
    [jQuery]: <http://jquery.com>
-   [select2]: <https://select2.org/>
-   [dataTables]: <https://datatables.net/>
-   [Bootstrap]: <https://getbootstrap.com/>
+   [select2]: <https://select2.org>
+   [dataTables]: <https://datatables.net>
+   [Bootstrap]: <https://getbootstrap.com>
+   [PHP]: <https://www.php.net>
+   [Composer]: <https://getcomposer.org>
    [Laravel]: <https://laravel.com/>
