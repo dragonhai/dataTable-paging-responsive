@@ -32,7 +32,8 @@ DataTables paging responsive uses a number of open source projects to work prope
 
 ## Installation
 
-Require [PHP], [Composer] for backend  
+Require [PHP], [Composer] for backend
+
 Go to working directory and run commands.
 
 ```sh
@@ -43,7 +44,8 @@ php artisan key:generate
 php artisan serve
 ```
 
-Go to http://127.0.0.1:8000  
+Go to http://127.0.0.1:8000
+
 Enjoy it!
 
 ## Test
