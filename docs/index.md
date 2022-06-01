@@ -10,8 +10,8 @@ Paging responsive for dataTables (use on admin page or custom page).
 - ✨Magic ✨
 
 ## Features
-
-- Responsive on Desktop, Tablet, Mobile screen (width >= 320px)
+- Support Bootstrap 4/5
+- Responsive on Desktop, Mobile screen (width >= 320px)
 - Compatible with paging adapter of dataTables API
 - Compatible with show, filter, sort of dataTables
 - No change row data on dataTables when orientation property equal to either "portrait" or "landscape" 
@@ -47,9 +47,9 @@ Go to http://127.0.0.1:8000
 Enjoy it!
 
 ## Test
-
+Require [Laravel Dusk] for testing
 ```sh
-karma test
+php artisan dusk
 ```
 
 ## License
@@ -63,3 +63,4 @@ Copyright © 2022 Tiger
    [PHP]: <https://www.php.net>
    [Composer]: <https://getcomposer.org>
    [Laravel]: <https://laravel.com/>
+   [Laravel Dusk]: <https://laravel.com/docs/8.x/dusk>
