@@ -14,13 +14,13 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "bootstrap4"
+      path: "bootstrap4.html"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
       layout: "bootstrap4" # overrides previous default layout
   -
     scope:
-      path: "bootstrap5"
+      path: "bootstrap5.html"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
       layout: "bootstrap5" # overrides previous default layout
