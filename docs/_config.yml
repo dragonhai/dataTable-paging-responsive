@@ -8,7 +8,7 @@ plugins:
 defaults:
   -
     scope:
-      path: ""
+      path: "default.html"
       type: "pages"
     values:
       layout: "default"
