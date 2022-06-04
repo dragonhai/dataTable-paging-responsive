@@ -1,3 +1,7 @@
+title: DataTables Paging Responsive
+description: Plugin paging responsive for dataTables
+bootstrap4_url: ../demo/bootstrap4
+bootstrap5_url: ../demo/bootstrap5
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
