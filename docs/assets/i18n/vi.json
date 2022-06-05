@@ -1,0 +1,19 @@
+{
+    "processing": "<div class='spinner-grow text-primary' role='status'><span class='sr-only'>Đang tải dữ liệu...</span></div>",
+    "lengthMenu": "Hiển thị _MENU_ dòng",
+    "search": "",
+    "searchPlaceholder": "Tìm kiếm...",
+    "emptyTable": "Không có dữ liệu",
+    "zeroRecords": "Không tìm thấy kết quả",
+    "info": "Hiển thị _START_ tới _END_ của _TOTAL_ dữ liệu",
+    "paginate": {
+        "first": "Đầu tiên",
+        "last": "Cuối cùng",
+        "next": "Sau",
+        "previous": "Trước",
+        "noResults": "Thử lại"
+    },
+    "noResults": "Thử lại",
+    "infoEmpty": "Hiển thị 0 tới 0 của 0 dữ liệu",
+    "infoFiltered": "(được lọc từ _MAX_ dữ liệu)"
+}

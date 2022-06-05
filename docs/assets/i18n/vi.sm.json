@@ -1,0 +1,16 @@
+{
+    "processing": "<div class='spinner-grow text-primary' role='status'><span class='sr-only'>Đang tải dữ liệu...</span></div>",
+    "lengthMenu": "Hiển thị _MENU_ dòng",
+    "search": "",
+    "searchPlaceholder": "Tìm kiếm...",
+    "emptyTable": "Không có dữ liệu",
+    "zeroRecords": "Không tìm thấy kết quả",
+    "info": "_START_ - _END_ / _TOTAL_",
+    "paginate": {
+        "page": "Trang",
+        "noResults": "Thử lại"
+    },
+    "noResults": "Thử lại",
+    "infoEmpty": "0 - 0 / 0",
+    "infoFiltered": "(_MAX_)"
+}
